@@ -6,9 +6,9 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            Sheng Yun
+tagline:          Sheng Yun's Blog
+url:              http://shengyun.github.io
 paginate:         1
 baseurl:          /
 author:
@@ -20,3 +20,7 @@ author:
 version:          1.0.0
 github:
   repo:           https://github.com/poole/poole
+
+pages_list:
+    About: '/about'
+    Archive: '/archive'
