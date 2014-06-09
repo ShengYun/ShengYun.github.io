@@ -35,17 +35,21 @@ For now, just understand everything you wrote in a `vimrc` file would be execute
 
 Let's begin by installing `Pathogen`. RTFM first, so it basically says:
 
-1. copy the entire `Pathogen` repository to `~/.vim/bundle` or `%HOME%\vimfiles\bundle`
-2. Add the following lines at the beginning of your `vimrc`
+- Copy the entire `Pathogen` repository to `~/.vim/bundle` or `%HOME%\vimfiles\bundle`
 
+- Add the following lines at the beginning of your `vimrc`
+
+<div>
 {% highlight vim %}
 runtime bundle/vim-pathogen/autoload/pathogen.vim
 execute pathogen#infect()
 syntax on
 filetype plugin indent on
 {% endhighlight %}
+</div>
 
-3. copy paste other `Pathogen` ready plugins to your `bundle` directory.
+- Copy paste other `Pathogen` ready plugins to your `bundle` directory.
+
 
 In vim, `:h xxx` is usually how to read the documentation, say if I want to know more information of the `:colorscheme` command, simply type `:h :colorscheme` would help. `Pathogen` provides a way to add your plugins documentation, after executed `:Helptags`, you can read the plugin's documentation by `:h plugin-name or function`, so if you installed the `tagbar` plugin, reading it's documentation would be `:h tagbar`.
 
