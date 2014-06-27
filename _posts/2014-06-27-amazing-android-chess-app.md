@@ -3,7 +3,7 @@ layout: post
 title: Chess - An Amazing android chess application
 ---
 
-I was using [tchess pro](http://www.tchessgame.com/pro.php) on my wife's iPad and iTouch, but the phone I'm using an Android phone, so I went finding a good Chess application on Android.
+I was using [tchess pro](http://www.tchessgame.com/pro.php) on my wife's iPad and iTouch, but the phone I'm using is an Android phone, so to leave my wife's iPad/iTouch alone, I went finding a good Chess application on Android.
 
 ### Features I'd like to use in this application
 
