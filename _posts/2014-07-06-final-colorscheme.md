@@ -3,7 +3,7 @@ layout: post
 title: Final colorscheme I use
 ---
 
-Last night I wrote a post about deciding which colorscheme to use in Vim, today I decided to switch back to my own [dbs](https://github.com/ShengYun/vim-colorscheme-dbs-easycolour) colorscheme. I downloaded the latest [EasyColour](http://www.cgtk.co.uk/vim-scripts/easycolour) plugin and also installed [TagHighlight](http://www.cgtk.co.uk/vim-scripts/taghighlight).
+Last night I wrote a post about deciding which colorscheme to use in Vim, today I decided to switch back to my own [dbs](https://github.com/ShengYun/vim-dbs-easycolour) colorscheme. I downloaded the latest [EasyColour](http://www.cgtk.co.uk/vim-scripts/easycolour) plugin and also installed [TagHighlight](http://www.cgtk.co.uk/vim-scripts/taghighlight).
 
 With the help of `EasyColour`, tweaking colorschemes in Vim became extremely easy. Here's my `dbs.txt`.
 
