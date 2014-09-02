@@ -210,7 +210,7 @@ OK I'll explain this a bit:), we don't have `ctrl` so I remapped `CtrlP`'s hotke
 
 ### Sum up
 
-Now we're all set, browse code on your iPad for free:), I'll list the keybinding table here again.
+Now we're all set, browse code on your iPad for free:), I'll list the keybinding table here again. And btw, [here](https://github.com/ShengYun/ios-vim-config) is my entire config repo.
 <table>
   <thead>
     <tr>
