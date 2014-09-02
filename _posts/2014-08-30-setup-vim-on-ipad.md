@@ -5,7 +5,9 @@ title: Setup vim on iPad
 
 It has been 10 days since I arrived in Boston, seems everything is good. Courses will begin at September 2, and some homework was already posted online. `Introduction to Computer Graphics` has a lot of programming work to do and because I got a new iPad mini I thought maybe I can read code on my iPad.
 
-So after a few hours(yes, hours...) googling and trying Apps from App Store, I got frustrated, most good applications are not free, some free applications are either too bad to use, or need an in-app-purchase to be used decently. Then I found [Vim](https://itunes.apple.com/us/app/vim/id492668168?mt=8), yes, and it is free and it supports vimscript, so I gave it a try, but the first try really sucks(In fact I deleted it after trying it and went back to find other applications). But when I realise I can't find a decent free application to browse code on my iPad, I downloaded Vim again. I'm going to share my ios-vim config, in fact it works pretty well:) hope it's useful for you.
+So after a few hours(yes, hours...) googling and trying Apps from App Store, I got frustrated, most good applications are not free, some free applications are either too hard to use, or needed an in-app-purchase to be used decently. Then I found [Vim](https://itunes.apple.com/us/app/vim/id492668168?mt=8), yes, and it is free and it supports vimscript, so I gave it a try, but the first try really sucked(In fact I deleted it after trying it and went back to find other applications). But when I realise I can't find a decent *free* application to browse code on my iPad, I downloaded Vim again. Finally I made it work, with features such as *fuzzy file finding* via `CtrlP`, *go to definition* by the built in `:ts`, and *search in files* via `:vimgrep`.
+
+I'm going to share my ios-vim config, in fact it works pretty well:) hope it's useful for you.
 
 
 ### Vim on iOS's limitations
